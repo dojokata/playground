@@ -1,0 +1,11 @@
+{
+  "name": "playground",
+  "version": "1.0.0",
+  "description": "Playground for TypeScript examples.",
+  "main": "index.js",
+  "author": "David Laribee <david@kata.io>",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^3.8.3"
+  }
+}
